@@ -23,7 +23,9 @@
 
 ### Outputs
 
-7. In this Outputs folder, the RMD, final pdf file, and reference.bib file for the final paper are included in here. 
+7. In this Outputs folder, the paper3.Rmd file, paper3.pdf file, and references.bib file for reproducing the final paper are included in here. 
+
+8. In this Outputs folder, the Family paper.pdf file is the final paper, including the survey we have generated for the supplemental questions.
 
 ## Thank you for your time reading this readme file!
 

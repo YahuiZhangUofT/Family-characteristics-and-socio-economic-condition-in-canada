@@ -11,7 +11,7 @@
 
 3. In the input/data folder, the gss_labels.txt and gss_dict.txt and included to help with the data cleaning process. These two txt files help the users to decode the dirty data. 
 
-### Input/data
+### Input/literature
 
 4. In the Input/literature folder, the GSS31_User_Guide.pdf file is the user guide for the General Social Survey, Cycle 31 - Families. Please check this user guide to gain more information about the General Social Survey.
 

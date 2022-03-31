@@ -17,7 +17,7 @@
 
 5. In the Input/literature folder, the other pdf file is the new survey we have created to supplement the General Social Survey. 
 
-### scripts
+### Scripts
 
 6. In this scripts folder, the paper 3.R file is the R code needed for the data cleaning process. 
 
